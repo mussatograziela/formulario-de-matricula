@@ -11,7 +11,7 @@ main {
   padding: 4rem;
 
   & .main-container {
-    max-with: 33rem;
+    max-width: 33rem;
     margin-left: auto;
   }
 
